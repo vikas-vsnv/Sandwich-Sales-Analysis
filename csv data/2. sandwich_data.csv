@@ -1,0 +1,221 @@
+Sandwich_Id,Name,Size,Category,Price
+SND001,Classic Club,Small,Classic,320
+SND002,Classic Club,Medium,Classic,610
+SND003,Classic Club,Large,Classic,850
+SND004,Classic Club,X-Large,Classic,1150
+SND005,Mediterranean Hummus,Small,Open-faced,280
+SND006,Mediterranean Hummus,Medium,Open-faced,550
+SND007,Mediterranean Hummus,Large,Open-faced,800
+SND008,Mediterranean Hummus,X-Large,Open-faced,1050
+SND009,Grilled Cheese Supreme,Small,Grilled,350
+SND010,Grilled Cheese Supreme,Medium,Grilled,650
+SND011,Grilled Cheese Supreme,Large,Grilled,900
+SND012,Grilled Cheese Supreme,X-Large,Grilled,1200
+SND013,Triple Decker Turkey,Small,Multi-decker,400
+SND014,Triple Decker Turkey,Medium,Multi-decker,700
+SND015,Triple Decker Turkey,Large,Multi-decker,950
+SND016,Triple Decker Turkey,X-Large,Multi-decker,1300
+SND017,Spinach & Feta Roll,Small,Rolled,300
+SND018,Spinach & Feta Roll,Medium,Rolled,580
+SND019,Spinach & Feta Roll,Large,Rolled,820
+SND020,Spinach & Feta Roll,X-Large,Rolled,1080
+SND021,Cucumber Pinwheel,Small,Pinwheel,260
+SND022,Cucumber Pinwheel,Medium,Pinwheel,520
+SND023,Cucumber Pinwheel,Large,Pinwheel,780
+SND024,Cucumber Pinwheel,X-Large,Pinwheel,1020
+SND025,Spicy Chicken Melt,Small,Grilled,380
+SND026,Spicy Chicken Melt,Medium,Grilled,680
+SND027,Spicy Chicken Melt,Large,Grilled,930
+SND028,Spicy Chicken Melt,X-Large,Grilled,1250
+SND029,Roast Beef Delight,Small,Classic,330
+SND030,Roast Beef Delight,Medium,Classic,620
+SND031,Roast Beef Delight,Large,Classic,870
+SND032,Roast Beef Delight,X-Large,Classic,1180
+SND033,Caprese Balsamic,Small,Open-faced,290
+SND034,Caprese Balsamic,Medium,Open-faced,560
+SND035,Caprese Balsamic,Large,Open-faced,810
+SND036,Caprese Balsamic,X-Large,Open-faced,1060
+SND037,Philly Cheesesteak,Small,Classic,450
+SND038,Philly Cheesesteak,Medium,Classic,720
+SND039,Philly Cheesesteak,Large,Classic,980
+SND040,Philly Cheesesteak,X-Large,Classic,1350
+SND041,Avocado Toast Deluxe,Small,Open-faced,310
+SND042,Avocado Toast Deluxe,Medium,Open-faced,590
+SND043,Avocado Toast Deluxe,Large,Open-faced,840
+SND044,Avocado Toast Deluxe,X-Large,Open-faced,1100
+SND045,Mushroom & Swiss Grill,Small,Grilled,360
+SND046,Mushroom & Swiss Grill,Medium,Grilled,670
+SND047,Mushroom & Swiss Grill,Large,Grilled,920
+SND048,Mushroom & Swiss Grill,X-Large,Grilled,1220
+SND049,Clubhouse Classic,Small,Multi-decker,420
+SND050,Clubhouse Classic,Medium,Multi-decker,710
+SND051,Clubhouse Classic,Large,Multi-decker,960
+SND052,Clubhouse Classic,X-Large,Multi-decker,1320
+SND053,Chicken Caesar Wrap,Small,Rolled,340
+SND054,Chicken Caesar Wrap,Medium,Rolled,630
+SND055,Chicken Caesar Wrap,Large,Rolled,880
+SND056,Chicken Caesar Wrap,X-Large,Rolled,1190
+SND057,Smoked Salmon Pinwheel,Small,Pinwheel,370
+SND058,Smoked Salmon Pinwheel,Medium,Pinwheel,660
+SND059,Smoked Salmon Pinwheel,Large,Pinwheel,910
+SND060,Smoked Salmon Pinwheel,X-Large,Pinwheel,1210
+SND061,BBQ Pork,Small,Classic,410
+SND062,BBQ Pork,Medium,Classic,700
+SND063,BBQ Pork,Large,Classic,940
+SND064,BBQ Pork,X-Large,Classic,1280
+SND065,Garden Veggie,Small,Open-faced,270
+SND066,Garden Veggie,Medium,Open-faced,540
+SND067,Garden Veggie,Large,Open-faced,790
+SND068,Garden Veggie,X-Large,Open-faced,1040
+SND069,Reuben Delight,Small,Grilled,390
+SND070,Reuben Delight,Medium,Grilled,690
+SND071,Reuben Delight,Large,Grilled,940
+SND072,Reuben Delight,X-Large,Grilled,1260
+SND073,Ham & Cheese Stack,Small,Multi-decker,360
+SND074,Ham & Cheese Stack,Medium,Multi-decker,640
+SND075,Ham & Cheese Stack,Large,Multi-decker,890
+SND076,Ham & Cheese Stack,X-Large,Multi-decker,1230
+SND077,Falafel Roll,Small,Rolled,310
+SND078,Falafel Roll,Medium,Rolled,590
+SND079,Falafel Roll,Large,Rolled,830
+SND080,Falafel Roll,X-Large,Rolled,1090
+SND081,Pesto Chicken Pinwheel,Small,Pinwheel,320
+SND082,Pesto Chicken Pinwheel,Medium,Pinwheel,610
+SND083,Pesto Chicken Pinwheel,Large,Pinwheel,860
+SND084,Pesto Chicken Pinwheel,X-Large,Pinwheel,1160
+SND085,Tuna Melt,Small,Grilled,340
+SND086,Tuna Melt,Medium,Grilled,620
+SND087,Tuna Melt,Large,Grilled,870
+SND088,Tuna Melt,X-Large,Grilled,1170
+SND089,Egg Salad Classic,Small,Classic,270
+SND090,Egg Salad Classic,Medium,Classic,530
+SND091,Egg Salad Classic,Large,Classic,780
+SND092,Egg Salad Classic,X-Large,Classic,1030
+SND093,Berry Cream Cheese,Small,Open-faced,250
+SND094,Berry Cream Cheese,Medium,Open-faced,500
+SND095,Berry Cream Cheese,Large,Open-faced,750
+SND096,Berry Cream Cheese,X-Large,Open-faced,1000
+SND097,Cuban Sandwich,Small,Grilled,430
+SND098,Cuban Sandwich,Medium,Grilled,710
+SND099,Cuban Sandwich,Large,Grilled,970
+SND100,Cuban Sandwich,X-Large,Grilled,1300
+SND101,Meatball Sub,Small,Classic,400
+SND102,Meatball Sub,Medium,Classic,690
+SND103,Meatball Sub,Large,Classic,930
+SND104,Meatball Sub,X-Large,Classic,1270
+SND105,Spicy Shrimp Po' Boy,Small,Classic,450
+SND106,Spicy Shrimp Po' Boy,Medium,Classic,740
+SND107,Spicy Shrimp Po' Boy,Large,Classic,990
+SND108,Spicy Shrimp Po' Boy,X-Large,Classic,1380
+SND109,Hummus & Veggie Wrap,Small,Rolled,290
+SND110,Hummus & Veggie Wrap,Medium,Rolled,570
+SND111,Hummus & Veggie Wrap,Large,Rolled,810
+SND112,Hummus & Veggie Wrap,X-Large,Rolled,1070
+SND113,Pulled Pork BBQ,Small,Classic,420
+SND114,Pulled Pork BBQ,Medium,Classic,700
+SND115,Pulled Pork BBQ,Large,Classic,950
+SND116,Pulled Pork BBQ,X-Large,Classic,1300
+SND117,Bacon Egg & Cheese,Small,Classic,350
+SND118,Bacon Egg & Cheese,Medium,Classic,630
+SND119,Bacon Egg & Cheese,Large,Classic,880
+SND120,Bacon Egg & Cheese,X-Large,Classic,1200
+SND121,Curried Chickpea,Small,Open-faced,280
+SND122,Curried Chickpea,Medium,Open-faced,550
+SND123,Curried Chickpea,Large,Open-faced,800
+SND124,Curried Chickpea,X-Large,Open-faced,1050
+SND125,Melted Brie & Apple,Small,Grilled,390
+SND126,Melted Brie & Apple,Medium,Grilled,690
+SND127,Melted Brie & Apple,Large,Grilled,940
+SND128,Melted Brie & Apple,X-Large,Grilled,1260
+SND129,Monte Cristo,Small,Grilled,410
+SND130,Monte Cristo,Medium,Grilled,700
+SND131,Monte Cristo,Large,Grilled,950
+SND132,Monte Cristo,X-Large,Grilled,1290
+SND133,BLT Classic,Small,Classic,300
+SND134,BLT Classic,Medium,Classic,580
+SND135,BLT Classic,Large,Classic,830
+SND136,BLT Classic,X-Large,Classic,1080
+SND137,Prosciutto Arugula,Small,Open-faced,360
+SND138,Prosciutto Arugula,Medium,Open-faced,650
+SND139,Prosciutto Arugula,Large,Open-faced,900
+SND140,Prosciutto Arugula,X-Large,Open-faced,1200
+SND141,Veggie Burger,Small,Classic,320
+SND142,Veggie Burger,Medium,Classic,610
+SND143,Veggie Burger,Large,Classic,860
+SND144,Veggie Burger,X-Large,Classic,1160
+SND145,Smoked Gouda & Pear,Small,Grilled,370
+SND146,Smoked Gouda & Pear,Medium,Grilled,660
+SND147,Smoked Gouda & Pear,Large,Grilled,910
+SND148,Smoked Gouda & Pear,X-Large,Grilled,1210
+SND149,Sweet Chili Chicken,Small,Rolled,330
+SND150,Sweet Chili Chicken,Medium,Rolled,620
+SND151,Sweet Chili Chicken,Large,Rolled,870
+SND152,Sweet Chili Chicken,X-Large,Rolled,1170
+SND153,Greek Salad Wrap,Small,Rolled,290
+SND154,Greek Salad Wrap,Medium,Rolled,570
+SND155,Greek Salad Wrap,Large,Rolled,810
+SND156,Greek Salad Wrap,X-Large,Rolled,1070
+SND157,Breakfast Burrito,Small,Rolled,350
+SND158,Breakfast Burrito,Medium,Rolled,640
+SND159,Breakfast Burrito,Large,Rolled,890
+SND160,Breakfast Burrito,X-Large,Rolled,1200
+SND161,Muffuletta,Small,Classic,460
+SND162,Muffuletta,Medium,Classic,750
+SND163,Muffuletta,Large,Classic,1000
+SND164,Muffuletta,X-Large,Classic,1400
+SND165,Pita with Shawarma,Small,Rolled,400
+SND166,Pita with Shawarma,Medium,Rolled,690
+SND167,Pita with Shawarma,Large,Rolled,930
+SND168,Pita with Shawarma,X-Large,Rolled,1270
+SND169,Crab Roll,Small,Classic,470
+SND170,Crab Roll,Medium,Classic,760
+SND171,Crab Roll,Large,Classic,1000
+SND172,Crab Roll,X-Large,Classic,1450
+SND173,Smoked Brisket,Small,Classic,480
+SND174,Smoked Brisket,Medium,Classic,770
+SND175,Smoked Brisket,Large,Classic,1000
+SND176,Smoked Brisket,X-Large,Classic,1500
+SND177,Veggie Supreme,Small,Classic,300
+SND178,Veggie Supreme,Medium,Classic,580
+SND179,Veggie Supreme,Large,Classic,830
+SND180,Veggie Supreme,X-Large,Classic,1080
+SND181,California Turkey,Small,Classic,370
+SND182,California Turkey,Medium,Classic,660
+SND183,California Turkey,Large,Classic,910
+SND184,California Turkey,X-Large,Classic,1210
+SND185,Meat Lovers Delight,Small,Multi-decker,490
+SND186,Meat Lovers Delight,Medium,Multi-decker,780
+SND187,Meat Lovers Delight,Large,Multi-decker,1000
+SND188,Meat Lovers Delight,X-Large,Multi-decker,1480
+SND189,Mediterranean Chicken,Small,Rolled,350
+SND190,Mediterranean Chicken,Medium,Rolled,640
+SND191,Mediterranean Chicken,Large,Rolled,890
+SND192,Mediterranean Chicken,X-Large,Rolled,1200
+SND193,Roasted Veggie Wrap,Small,Rolled,280
+SND194,Roasted Veggie Wrap,Medium,Rolled,550
+SND195,Roasted Veggie Wrap,Large,Rolled,800
+SND196,Roasted Veggie Wrap,X-Large,Rolled,1050
+SND197,Sloppy Joe,Small,Classic,390
+SND198,Sloppy Joe,Medium,Classic,680
+SND199,Sloppy Joe,Large,Classic,930
+SND200,Sloppy Joe,X-Large,Classic,1250
+SND201,French Dip,Small,Classic,420
+SND202,French Dip,Medium,Classic,710
+SND203,French Dip,Large,Classic,960
+SND204,French Dip,X-Large,Classic,1320
+SND205,Spicy Black Bean,Small,Classic,310
+SND206,Spicy Black Bean,Medium,Classic,590
+SND207,Spicy Black Bean,Large,Classic,840
+SND208,Spicy Black Bean,X-Large,Classic,1100
+SND209,Cheesy Garlic Bread,Small,Grilled,260
+SND210,Cheesy Garlic Bread,Medium,Grilled,520
+SND211,Cheesy Garlic Bread,Large,Grilled,780
+SND212,Cheesy Garlic Bread,X-Large,Grilled,1020
+SND213,Pimento Cheese,Small,Classic,290
+SND214,Pimento Cheese,Medium,Classic,560
+SND215,Pimento Cheese,Large,Classic,810
+SND216,Pimento Cheese,X-Large,Classic,1060
+SND217,Eggplant Parmesan,Small,Classic,380
+SND218,Eggplant Parmesan,Medium,Classic,670
+SND219,Eggplant Parmesan,Large,Classic,920
+SND220,Eggplant Parmesan,X-Large,Classic,1240

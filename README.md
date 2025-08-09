@@ -4,7 +4,8 @@ This repository contains the complete project for a Sandwich Shop Sales Analysis
 ## 📊 Dashboard Preview
 The interactive dashboard provides a multi-faceted view of the sales data. It is composed of a general dashboard that provides a high-level overview of the sales data.
 
-Main Dashboard
+### Main Dashboard
+
 ## ✨ Key Features & Insights
 * **Key Performance Indicators (KPIs):** Tracks high-level metrics such as total sales, total orders, and average order value.
 

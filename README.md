@@ -5,6 +5,10 @@ This repository contains the complete project for a Sandwich Shop Sales Analysis
 The interactive dashboard provides a multi-faceted view of the sales data. It is composed of a general dashboard that provides a high-level overview of the sales data.
 
 ### Main Dashboard
+![image alt](https://github.com/vikas-vsnv/Sandwich-Sales-Analysis/blob/main/Dashboard%20img/Screenshot%202025-08-09%20140340.png)
+
+### Beat/Worst Saller
+![image alt](https://github.com/vikas-vsnv/Sandwich-Sales-Analysis/blob/main/Dashboard%20img/Screenshot%202025-08-09%20140358.png)
 
 ## ✨ Key Features & Insights
 * **Key Performance Indicators (KPIs):** Tracks high-level metrics such as total sales, total orders, and average order value.
